@@ -1,4 +1,4 @@
-# Kidso
+# Calendar
 
 This repository will present an application with the following functionality:
 1. Week calendar with navigation.
